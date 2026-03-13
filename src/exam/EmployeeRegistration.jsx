@@ -88,7 +88,9 @@ const  EmployeeRegistration = () =>
                     />
                 </div>
             
-            <button type='submit' className='submit-btn'>  Register  </button>
+            <button style={{backgroundColor: "#3b82f6", color: "white", fontWeight: "bold", padding: "8px 16px", border: "none", borderRadius: "6px",marginTop: "10px"}}>
+                Register
+            </button>
             </form>
     </div>
   )

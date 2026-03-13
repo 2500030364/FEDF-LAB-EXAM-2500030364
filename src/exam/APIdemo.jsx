@@ -24,7 +24,7 @@ export default function APIDemo()
             error ? <b>{error}</b> :
             data.length == 0 ?
             <b>Loading...</b> :
-            <table border={1}>
+            <table border={1} style={{borderCollapse: "collapse", marginTop: "20px", width: "80%", textAlign: "center"}}>
                <thead>
                 <tr>
                     <th>ID</th>
