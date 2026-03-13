@@ -8,7 +8,9 @@ export default function Home()
         <p>
         After registering, the employee details will be stored and can
         be viewed in the Registered Employees section.
-      </p>
+        </p>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYFLXJFFyZEzdg6Pv-F3K1IRn4X_gXaVSkgg&s" alt="Employee" />
+      
     </div>
   )
 }
